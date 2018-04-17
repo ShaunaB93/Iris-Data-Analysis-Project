@@ -1,6 +1,6 @@
 Shauna Byrne 09/04/18
 #Project Test Code from 2nd video 09/04/2018
-#https://docs.scipy.org/doc/numpy/reference/generated/numpy.set_printoptions.html
+#https://docs.scipy.org/doc/numpy/reference/generated/numpy.set_printoptions.html - used to research possible methods of limiting the output of the mean calculation of the columns
 
 import numpy
 #numpy.set_printoptions(precision=4) #line is to attempt to limit the number output of the mean function, functions retrieved using the link above.
