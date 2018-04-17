@@ -10,7 +10,7 @@ data = numpy.genfromtxt('data/iris1.csv', delimiter=',')
 firstcol = data[:,0]
 secondcol = data[:,1]
 thirdcol = data[:,2]
-forthcol = data[:3]
+fourthcol = data[:3]
 
 import matplotlib.pyplot as plot
 plot.hist(firstcol)
@@ -25,6 +25,6 @@ plot.hist(thirdcol)
 plot.xlabel('Petal Length')
 plot.show()
 
-plot.hist(secondcol)
+plot.hist(fourthcol)
 plot.xlabel('Petal Width')
 plot.show()
