@@ -1,0 +1,44 @@
+Shauna Byrne 09/04/18
+#Project Test Code from 2nd video 09/04/2018
+#https://docs.scipy.org/doc/numpy/reference/generated/numpy.set_printoptions.html
+
+import numpy
+#numpy.set_printoptions(precision=4) #line is to attempt to limit the number output of the mean function, functions retrieved using the link above.
+
+data = numpy.genfromtxt('data/iris1.csv', delimiter=',')
+
+firstcol = data[:,0]
+secondcol = data[:,1]
+thirdcol = data[:,2]
+forthcol = data[:3]
+
+#run test.py to get this output
+meanfirstcol = numpy.mean(data[:,0])
+meansecondcol = numpy.mean(data[:,1])
+meanthirdcol = numpy.mean(data[:,2])
+meanforthcol = numpy.mean(data[:,3])
+
+print("Average of first column is: ", meanfirstcol)
+print("Average of second column is: ", meansecondcol)
+print("Average of third column is: ", meanthirdcol)
+print("Average of forth column is: ", meanforthcol)
+
+minfirstcol = numpy.min(data[:,0])
+minsecondcol = numpy.min(data[:,1])
+minthirdcol = numpy.min(data[:,2])
+minforthcol = numpy.min(data[:,3])
+
+print("The minimum value in the first column is :", minfirstcol)
+print("The minimum value in the second column is :", minsecondcol)
+print("The minimum value in the third column is :", minthirdcol)
+print("The minimum value in the forth column is :", minforthcol)
+
+maxfirstcol = numpy.max(data[:,0])
+maxsecondcol = numpy.max(data[:,1])
+maxthirdcol = numpy.max(data[:,2])
+maxforthcol = numpy.max(data[:,3])
+
+print("The maximum value in the first column is :", maxfirstcol)
+print("The maximum value in the second column is :", maxsecondcol)
+print("The maximum value in the third column is :", maxthirdcol)
+print("The maximum value in the forth column is :", maxforthcol)
