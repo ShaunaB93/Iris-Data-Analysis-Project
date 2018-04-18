@@ -1,11 +1,7 @@
 #Shauna Byrne 14/04/2018
-#Additional Project Code work to test .describe function as outlined in link on comment 4
-#Testing of Data frames which have been mentioned on numerous web links for similar projects.
+#Additional Project Code work to test .describe function.
 #Dataframes usually used to summarize datasets/summary of each attribute such as count, mean, the min and max values as well as some percentiles in the case of numeric data - suggested as alternate shorted method of outlining the Iris Datasets information in a neater fortmat
-#https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html
-#https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
-#https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-
+#From research code returned errors so an alternate method to produce required results was researched - this can be found in Describe2 commit.
 import pandas
 import os
 
