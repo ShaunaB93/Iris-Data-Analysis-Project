@@ -1,11 +1,6 @@
 #Shauna Byrne 14/04/2018
 #Additional Project Code work to test .describe function as outlined in link on comment 4
-#Testing of Data frames which have been mentioned on numerous web links for similar projects.
 #Dataframes usually used to summarize datasets/summary of each attribute such as count, mean, the min and max values as well as some percentiles in the case of numeric data - suggested as alternate shorted method of outlining the Iris Datasets information in a neater fortmat
-#https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
-#https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.describe.html
-#https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-#https://www.dataquest.io/blog/pandas-cheat-sheet/
 
 #this code ran correctly when running in ipython using the "run Describe2.py" command & gives output for the count, mean, standard deviation, minimum, 25%, 50%, 75% & maximum values calculatied for each attribute colmn.
 import pandas
