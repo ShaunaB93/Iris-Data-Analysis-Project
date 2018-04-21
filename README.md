@@ -10,17 +10,14 @@ This data set is now widely known & analysed in studies in various areas such as
 
 The data set itself describes particular biological characteristics of various sample Iris flowers. The study contains data relating to three classes of iris flowers – Iris Setosa, Irisa Versicolour & Iris Virginica, with fifty instances of each class analysed in the study. 
 
-*Iris 
-Setosa*
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg" width="200" height="200">
+*Iris Setosa*
 
-*Iris 
-Versicolour*
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg" width="200" height="200">
+*Iris Versicolour*
 
-*Iris 
-Virginica*
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg" width="200" height="200">
+*Iris Virginica*
 
 The analysis of each instance calculates the – Sepal Length, Sepal Width, Petal Length & Petal Width. Generally the data set is analysed to test algorithms developed to classify the type of iris flower based on the measurements provided. Previous studies completed on the data set have determined that each class is linearly separable from the other two [6]. 
 
