@@ -10,7 +10,7 @@ data = numpy.genfromtxt('data/iris1.csv', delimiter=',')
 firstcol = data[:,0]
 secondcol = data[:,1]
 thirdcol = data[:,2]
-fourthcol = data[:3]
+fourthcol = data[:,3]
 
 stdevfirstcol = numpy.std(firstcol)
 stdevsecondcol = numpy.std(secondcol)
