@@ -8,7 +8,7 @@ from scipy import stats
 
 data = numpy.genfromtxt('data/iris1.csv', delimiter=',')
 
-print(dataset.shape)
+print(data.shape)
 
 firstcol = data[:,0]
 secondcol = data[:,1]
