@@ -1,6 +1,6 @@
-#Draft Programming & Scripting Data Analysis Project of Iris Flower Data Set
+# Draft Programming & Scripting Data Analysis Project of Iris Flower Data Set
 
-## Abstract Background Information of the Iris data set - 
+## Abstract - Background Information of the Iris data set - 
 
 In 1936 a study was first published by Ronald Fisher in the paper "The use of multiple measurements in taxonomic problems".
 
