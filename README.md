@@ -5,6 +5,7 @@
 In 1936 a study was first published by Ronald Fisher in the paper "The use of multiple measurements in taxonomic problems".
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/R._A._Fischer.jpg" width="200" height="200">
+
 *Ronald Fisher* 
 
 This data set is now widely known & analysed in studies in various areas such as pattern recognition literature, machine learning, statistics, data mining & various other fields [4]. The data set is preferred for testing projects in these fields as the attributes are numeric and in the same units, which means loading and handling the data are required but no special scaling is required, it is a multi-classification problem, which allows for testing of learning algorithms & specialised handling and its size, only containing 4 attributes & 150 rows.
