@@ -17,5 +17,4 @@ The data set itself describes particular biological characteristics of various s
 
 The analysis of each instance calculates the – sepal length, sepal width, petal length & petal width. Generally the data set is analysed to test algorithms developed to classify the type of iris flower based on the measurements provided. Previous studies completed on the data set have determined that each class is linearly separable from the other two [6]. 
 
-![The dataset can be found here for review] (https://archive.ics.uci.edu/ml/datasets/iris) 
-
+[The dataset can be viewed here](https://archive.ics.uci.edu/ml/datasets/iris)
