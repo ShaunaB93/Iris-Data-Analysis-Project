@@ -1,5 +1,5 @@
 #Shauna Byrne 19/04/2018
-#Suggested code to run each of the 4 columns
+#Suggested partial code to run each of the 4 columns as investigation on-going.
 
 import numpy
 import pandas
