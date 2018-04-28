@@ -50,11 +50,11 @@ From carrying out research for the project measuring the central tendency of a d
 **- A)	Libraries to be imported:**
 The code produced in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) file commit begins by having python installed via Anaconda & importing the following libraries for the analysis mentioned later in the commit to work. The commands can also be ran in *ipython* but appears as a script in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) commit - 
  
-<img src="https://s19.postimg.cc/mu8mb74wj/Libraries.jpg" alt="Libraries"/></a><br/><br/>">
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/5gybwp4k3/Libraries.jpg" alt="Libraries"/></a><br/><br/>
  
 **- B) Shape of the data set:**
 
-<img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/> [5]
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/> [5]
 
 The analysis of the data represented of line 12 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) provides an overview of the number of instances or rows & attributes or columns the data set contains. This code has been included for informative purposes to give the analyst an idea of the size of the data set being examined [5].
 
