@@ -52,12 +52,15 @@ The code produced in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analy
  
 <img src="https://s19.postimg.cc/mu8mb74wj/Libraries.jpg" alt="Libraries"/></a><br/><br/>">
  
-**- B) Shape of the data set
+**- B) Shape of the data set:**
 
 <img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/> [5]
+
 The analysis of the data represented of line 12 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) provides an overview of the number of instances or rows & attributes or columns the data set contains. This code has been included for informative purposes to give the analyst an idea of the size of the data set being examined [5].
 
 **- C)	Calculation function:** 
+
+<img src="https://s19.postimg.cc/3p5d1rimb/Calculation_Function.jpg" alt="Calculation_Function"/></a><br/><br/>
  
 The above commands can be ran to calculate the mean, minimum, maximum & standard deviation of each of the attribute columns in the iris flower dataset. It also produces histograms & line graphs for each of the attributes grouped together for each of the calculations. The calculations & graphs have been grouped in a function to firstly cut the code to avoid repetition in order to calculate the values for each column & to ensure the information for each of the values appear one after the other for the ease of viewing of the results. 
    * 1)	The mean of a dataset is known as a descriptive statistic which can be used as a measure of central tendency as mentioned previously. In order to calculate the mean, all values within the specified dataset are added & the sum is divided by the number of values. In the case of the above mentioned piece of code outlined on line 20 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), the calculation of the mean has been completed for each of the attribute columns within the iris flower dataset. However, it is widely known that there is a disadvantage to calculating the mean during data analysis as it is susceptible to outlier values within the dataset which can skew the results. The above code example was successful in calculating the mean of each of the columns mentioned when compared to alternate code found during the research for the project when used to confirm the values[2][3][4].
@@ -72,7 +75,9 @@ The above commands can be ran to calculate the mean, minimum, maximum & standard
 
    * 5)	The next grouping of code in the function produces individual histograms for each of the attribute columns. Histograms are useful when analysing data as they provide a visual representation of the underlying frequency distribution or shape of, in this case, a continuous data set. The code used to produce this output in [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) can be viewed on lines 32 through 35 of the script. By providing this output in order to analyse the data set it allows for the inspection of the data in its distribution & also if there are any outlier values which represent a skewness within the data set [8]. The outputs of this visualisation of the data contained in the individual columns of the iris data set were as follows –
 
- 
+ <img src="https://s19.postimg.cc/7ya33vw5f/Sepal_Length_Individual_Histogram.png" alt="Sepal_Length_Individual_Histogram"/></a><br/><br/>
+ <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/ua7vx9njn/Sepal_Width_Individual_Histogram.png" alt="Sepal_Width_Individual_Histogram"/></a><br/><br/>
+
  
  
  
