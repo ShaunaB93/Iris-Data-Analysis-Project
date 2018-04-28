@@ -50,7 +50,7 @@ From carrying out research for the project measuring the central tendency of a d
 **- A)	Libraries to be imported:**
 The code produced in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) file commit begins by having python installed via Anaconda & importing the following libraries for the analysis mentioned later in the commit to work. The commands can also be ran in *ipython* but appears as a script in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) commit - 
  
-<img src="https://postimg.cc/image/4eo5dsqrz/][img]https://s19.postimg.cc/4eo5dsqrz/Libraries.jpg[/img][/url]" width="200" height="200">
+<img src="https://s19.postimg.cc/mu8mb74wj/Libraries.jpg" alt="Libraries"/></a><br/><br/>" width="200" height="200">
  
 **- B) Shape of the data set:**
  [5]
