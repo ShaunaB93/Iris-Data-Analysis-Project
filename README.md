@@ -1,4 +1,4 @@
-# Draft Programming & Scripting Data Analysis Project of Iris Flower Data Set
+# Programming & Scripting Data Analysis Project of Iris Flower Data Set
 
 ## Abstract - Background Information of the Iris data set - 
 
@@ -97,7 +97,7 @@ The above section of code, seen on lines 47 through 53, represents the data from
  
 **- D) Histograms for each attribute individually in one image:**
 
-<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/r3dcdpver/Histogram_all_in_one_image_individually.jpg" alt="Histogram_all_in_one_image_individually"/></a><br/><br/> [14]
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/ye0l11i1f/Histogram_all_in_one_image_individually.jpg" alt="Histogram_all_in_one_image_individually"/></a><br/><br/> [14]
 
 The section of code outlined in the image above, & on lines 55 through 58 in [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), produces the four individual histograms within one figure, each individual histogram is labelled to allow for the identification of the column of data is represented through the titles included. As mentioned previously the histograms offer an alternate visual representation of the shape of the data from the data set analysed in this project. By producing the histograms alongside the data from the alternate attribute columns it allows for a closer comparison to be made rather than the viewer having to remember the individual histograms produced earlier in the script.
 
@@ -105,7 +105,7 @@ The section of code outlined in the image above, & on lines 55 through 58 in [fi
  
 **- F) Line plot for each attribute individually in one image:**
 
-<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/aflub9axv/Plot_all_in_one_image_individually.jpg" alt="Plot_all_in_one_image_individually"/></a><br/><br/> [14]
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/o3y61tfb7/Plot_all_in_one_image_individually.jpg" alt="Plot_all_in_one_image_individually"/></a><br/><br/> [14]
 
 This section of code, represented on lines 60 through 63 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), produces four individual line plots within one figure, each individual line plot is labelled to allow for the identification of the column of data is represented through the titles included. This was prodcued as an alternate view for comparison of the information visualised, to the individually produced line plots & the single line plot containing all four columns. Each of the differing line plots produced clearly show the trend of the data contained in each column within the data set. 
 
@@ -113,7 +113,7 @@ This section of code, represented on lines 60 through 63 of [final.py](https://g
  
 **- G) Box plot for each attribute individually in one image:**
 
-<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/qduk1bcur/Box_all_in_one_image_individually.jpg" alt="Box_all_in_one_image_individually"/></a><br/><br/> [14]
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/e6n58qzzn/Box_all_in_one_image_individually.jpg" alt="Box_all_in_one_image_individually"/></a><br/><br/> [14]
 
 The above lines of code, represented on lines 65 through 68 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), produce four individual box plots each representing the attribute column listed in the title such as sepal length, sepal width, petal length & petal width of the iris flowers. Similar to the other analysis completed throughout this project this box plots are known as descriptive statistical representations of data. The individual box plots are a graphical method of displaying the variation, shape & median of each of the columns mentioned within the iris data set. It is used in addition to the histograms and line plots produced in this case in order to provide additional detail to the analysis. The box plot outputs can provide information as to whether the data being analysed is symmetric, with the median in the middle of the box, or skewed, with the median cuts the box into unequal sections. The median is shown by the line that cuts through the box plot. If the data is skewed & the median populates towards one side of the box, left or right, the dataset is said to be skewed right or left. They are effective in visualising the data & easy to read to show the relation between each of the attributes for the different flowers analysed and represented in the data set. They are generally developed from five statistic flowers from the data they are created to represent – the minimum, second quartile, the median, third quartile & the maximum, which relates to the values analysed and can be seen in the *.describe* output that will be mentioned later. However, it is widely known that while this box plot representation of the data can indicate the symmetry of a data set it is unable to indicate the shape of the data’s symmetry to the same level as a histogram [15][16].
 
@@ -121,7 +121,7 @@ The above lines of code, represented on lines 65 through 68 of [final.py](https:
 
  **- H) Area plot for all 4 attributes:**
  
- <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/6vzwld877/Area_all_in_one_image_individually.jpg" alt="Area_all_in_one_image_individually"/></a><br/><br/> [14]
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/3jtc3cezn/Area_all_in_one_image_individually.jpg" alt="Area_all_in_one_image_individually"/></a><br/><br/> [14]
  
 The area plot, represented on lines 70 through 73 in [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), provide a visual output of line segments for each of the attributes represented in the dataset compared with each other. The plot showcases the magnitude difference between the values for the range of samples for each attribute & provides a comparison between the four columns. This was used as an alternate visual representation of the dataset attribute values and the trends between the attribute values measured in the dataset at a quick glance to a viewer looking through the analysis completed. For the purpose of this analysis the attribute values have been represented with stacked data plots rather than overlapping data points as it they are much easier to view and read. Any fluctuations to the values of the attributes can be clearly seen using the area graph while being able to also view whether or not the dataset contains consistant values for any of the attributes, therefore providing another view on any trends within the data set. One advantage of using the area chart for additional information over the line plot is the fact the filling between the line segments can assist in understanding the magnitude of the data for each of the attributes included in this dataset [17].
 
@@ -141,7 +141,7 @@ The code represented on lines 75 through 78 in [final.py](https://github.com/Sha
 
 The *.describe* section in [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py), represented on line 80 of the commit, was used as a suggestion for calculating some of the values represented in the function discussed previously. It was included as a suggested as it requires less code to produce the values & provides a display table of detailed distribution information for each of the 4 attributes represented within the data set, specifically providing the count, mean, standard deviation, minimum, maximum, 25th, 50th & 75th percentiles. The relevance of the values have been mentioned when previously calculated earlier in the script [5].
 
-<a href='https://postimg.cc/image/k1fera75r/' target='_blank'><img src='https://s19.postimg.cc/k1fera75r/describe_output.jpg' border='0' alt='describe_output'/></a>
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/nr6rvn4r7/describe_output.jpg" alt="describe_output"/></a><br/><br/>
 
 ### Conclusion –
 As the iris flower data set [1] is so well known there have been many projects completed using the data, especially for statistical analysis and machine learning, which have been published online.
