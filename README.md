@@ -151,23 +151,43 @@ The analysis completed in this case was based more so on statistical calculation
 
 ### References –
 **- [1]** [https://archive.ics.uci.edu/ml/datasets/iris]
+
 **- [2]** [https://statistics.laerd.com/statistical-guides/measures-central-tendency-mean-mode-median.php]
+
 **- [3]** [https://www.researchconnections.org/childcare/datamethods/descriptivestats.jsp]
+
 **- [4]** [https://www.researchconnections.org/childcare/research-glossary#M]
+
 **- [5]** [https://machinelearningmastery.com/quick-and-dirty-data-analysis-with-pandas/]
+
 **- [6]** [http://www.nedarc.org/statisticalHelp/basicStatistics/minAndMax.html]
+
 **- [7]** [https://www.researchconnections.org/childcare/datamethods/descriptivestats.jsp]
+
 **- [8]** [https://statistics.laerd.com/statistical-guides/understanding-histograms.php]
+
 **- [9]** [https://statistics.laerd.com/statistical-guides/measures-of-spread-standard-deviation.php]
+
 **- [10]** [https://plotlyblog.tumblr.com/post/118355223592/how-to-analyze-data-eight-useful-ways-you-can]
+
 **- [11]** [https://matplotlib.org/users/pyplot_tutorial.html]
+
 **- [12]** [http://howtothink.readthedocs.io/en/latest/PvL_H.html]
+
 **- [13]** [https://pythonprogramming.net/loading-file-data-matplotlib-tutorial/]
+
 **- [14]** [https://data-lessons.github.io/library-python/06a-plotting-with-pandas/]
+
 **- [15]** [http://asq.org/learn-about-quality/data-collection-analysis-tools/overview/box-whisker-plot.html]
+
 **- [16]** [http://www.dummies.com/education/math/statistics/what-a-boxplot-can-tell-you-about-a-statistical-data-set/]
+
 **- [17]** [https://www.fusioncharts.com/chart-primers/area-chart/]
+
 **- [18]** [http://junkcharts.typepad.com/junk_charts/2010/06/the-scatterplot-matrix-a-great-tool.html]
+
 **- [19]** [http://web.archive.org/web/20120313180502/http://www.le.ac.uk/biology/gat/virtualfc/Stats/descrip.html]
+
 **- [20]** [https://analyticsindiamag.com/start-building-first-machine-learning-project-famous-dataset/]
+
 **- [21]** [http://www.codeastar.com/beginner-data-science-tutorial/]
