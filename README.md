@@ -31,14 +31,14 @@ The dataset can be viewed [here](https://archive.ics.uci.edu/ml/datasets/iris)
 ### Introduction – 
 As per the project statement the following was the outline provided for the project – 
 
-*“The following project concerns the well-known Fisher’s Iris data set *[1]*. *The project entails you researching the data set, and then writing documentation and code in the Python programming language based on that research. An online search for information on the data set will convince you that many people have investigated and written about it previously, and many of those are not experienced programmers. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. You might do that for this project as follows:*
+*“The following project concerns the well-known Fisher’s Iris data set *[1]*.* *The project entails you researching the data set, and then writing documentation and code in the Python programming language based on that research. An online search for information on the data set will convince you that many people have investigated and written about it previously, and many of those are not experienced programmers. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. You might do that for this project as follows:*
 
-*1. Research background information about the data set and write a summary about it.
+1. Research background information about the data set and write a summary about it.
 2. Keep a list of references you used in completing the project.
 3. Download the data set and write some Python code to investigate it.
 4. Summarise the data set by, for example, calculating the maximum, minimum and mean of each column of the data set. A Python script will quickly do this for you.
 5. Write a summary of your investigations.
-6. Include supporting tables and graphics as you deem necessary.” *
+6. Include supporting tables and graphics as you deem necessary.”
 
 Following the issue of the project objective I decided to put a plan together on how to approach the project. I started this by researching similar projects completed using the iris flower dataset, as it is widely used. Following to this research I was able to determine the analysis calculations and graphs I believed would be useful in this project in order to analyse the dataset provided, which was followed by determining how the project should fit together. Throughout the research, I came across numerous calculations & graphs which could be use to analyse the dataset. The various suggestions of calculations & graphs can be seen in the alternate commits of code represented in the different files of this repository with the [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) commit representing the code being submitted for this assignment.
 
