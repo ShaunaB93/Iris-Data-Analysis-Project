@@ -31,9 +31,9 @@ The dataset can be viewed [here](https://archive.ics.uci.edu/ml/datasets/iris)
 ### Introduction – 
 As per the project statement the following was the outline provided for the project – 
 
-* “The following project concerns the well-known Fisher’s Iris data set *[1]*. The project entails you researching the data set, and then writing documentation and code in the
-Python programming language based on that research. An online search for information on the data set will convince you that many people have investigated and written about it previously, and many of those are not experienced programmers. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. You might do that for this project as follows:
-1. Research background information about the data set and write a summary about it.
+*“The following project concerns the well-known Fisher’s Iris data set *[1]*. *The project entails you researching the data set, and then writing documentation and code in the Python programming language based on that research. An online search for information on the data set will convince you that many people have investigated and written about it previously, and many of those are not experienced programmers. You are expected to be able to break this project into several smaller tasks that are easier to solve, and to plug these together after they have been completed. You might do that for this project as follows:*
+
+*1. Research background information about the data set and write a summary about it.
 2. Keep a list of references you used in completing the project.
 3. Download the data set and write some Python code to investigate it.
 4. Summarise the data set by, for example, calculating the maximum, minimum and mean of each column of the data set. A Python script will quickly do this for you.
@@ -54,6 +54,7 @@ The code produced in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analy
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/5gybwp4k3/Libraries.jpg" alt="Libraries"/></a><br/><br/>
  
 **- B) Shape of the data set:**
+
 *[5]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/>
 
@@ -90,6 +91,7 @@ The above commands can be ran to calculate the mean, minimum, maximum & standard
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/lf71mutn7/Petal_Width_Individual_Plot.png" alt="Petal_Width_Individual_Plot"/></a><br/><br/>
  
 **- D) Line (4 attributes 1 graph):**
+
 *[12]*
  <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/rg4qjxvoz/Plot_Graph_4_lines_1_image.jpg" alt="Plot_Graph_4_lines_1_image"/></a><br/><br/>
 
@@ -98,6 +100,7 @@ The above section of code, seen on lines 47 through 53, represents the data from
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/s5niwb3yb/Plot_Graph_1_image.png" alt="Plot_Graph_1_image"/></a><br/><br/>
  
 **- D) Histograms for each attribute individually in one image:**
+
 *[14]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/ye0l11i1f/Histogram_all_in_one_image_individually.jpg" alt="Histogram_all_in_one_image_individually"/></a><br/><br/>
 
@@ -106,6 +109,7 @@ The section of code outlined in the image above, & on lines 55 through 58 in [fi
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/fr0qvwzkj/Four_Histograms.png" alt="Four_Histograms"/></a><br/><br/>
  
 **- F) Line plot for each attribute individually in one image:**
+
 *[14]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/o3y61tfb7/Plot_all_in_one_image_individually.jpg" alt="Plot_all_in_one_image_individually"/></a><br/><br/>
 
@@ -114,6 +118,7 @@ This section of code, represented on lines 60 through 63 of [final.py](https://g
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/om1l6fw2r/Four_Plot_Graphs.png" alt="Four_Plot_Graphs"/></a><br/><br/>
  
 **- G) Box plot for each attribute individually in one image:**
+
 *[14]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/e6n58qzzn/Box_all_in_one_image_individually.jpg" alt="Box_all_in_one_image_individually"/></a><br/><br/>
 
@@ -122,6 +127,7 @@ The above lines of code, represented on lines 65 through 68 of [final.py](https:
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/siex2em77/Box_Plots.png" alt="Box_Plots"/></a><br/><br/>
 
  **- H) Area plot for all 4 attributes:**
+ 
  *[14]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/3jtc3cezn/Area_all_in_one_image_individually.jpg" alt="Area_all_in_one_image_individually"/></a><br/><br/>
  
@@ -130,6 +136,7 @@ The area plot, represented on lines 70 through 73 in [final.py](https://github.c
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/546xqhbzn/Area_Plot.png" alt="Area_Plot"/></a><br/><br/>
  
 **- I) Scatter Matrix all 4 attributes:**
+
 *[5]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/ixvafgrpf/Sctter_Matrix.jpg" alt="Sctter_Matrix"/></a><br/><br/>
 
@@ -138,6 +145,7 @@ The code represented on lines 75 through 78 in [final.py](https://github.com/Sha
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/om1l6ee2b/Scatter_Matrix.png" alt="Scatter_Matrix"/></a><br/><br/>
 
 **- J) .describe function:** 
+
 *[5]*
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/qduk19uub/describe.jpg" alt="describe"/></a><br/><br/>
 
@@ -146,6 +154,7 @@ The *.describe* section in [final.py](https://github.com/ShaunaB93/Iris-Data-Ana
 <a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/nr6rvn4r7/describe_output.jpg" alt="describe_output"/></a><br/><br/>
 
 ### Conclusion –
+
 As the iris flower data set *[1]* is so well known there have been many projects completed using the data, especially for statistical analysis and machine learning, which have been published online.
 From my own analysis it could be quickly determined that the petal measurements attributes are quite skewed through the visual outputs, while the sepal measurements appear quite symmetric. As mentioned previously, the histograms are the clearest evidence of the shape of the data related to the attributes in this case. However, as some of the data appears skewed it would represent that the petal attribute values appear to have a greater variance of values within the sample than the sepal related values appeared to show. While the scatter matrix allows for the most complex representation & comparison of the data measured of the four attributes of the flowers within the sample. The scatter matrix visual output shows that there is a diagonal grouping of some pairs of the attributes contained within the data set & this would suggest a predictable relationship between such attributes. I believe this is why many projects for learning how to create models for machine learning utilise this data set as it functions and proves that such algorithms can predict certain outcomes if trained correctly. 
 
