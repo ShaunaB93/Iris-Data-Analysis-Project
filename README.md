@@ -55,7 +55,7 @@ The code produced in the [final.py](https://github.com/ShaunaB93/Iris-Data-Analy
  
 **- B) Shape of the data set:**
 
-<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/>*[5]*
+<a href="https://postimages.org/" target="_blank"><img src="https://s19.postimg.cc/vci2fsqxf/Shape.jpg" alt="Shape"/></a><br/><br/*[5]*>
 
 The analysis of the data represented of line 12 of [final.py](https://github.com/ShaunaB93/Iris-Data-Analysis-Project/blob/master/Final.py) provides an overview of the number of instances or rows & attributes or columns the data set contains. This code has been included for informative purposes to give the analyst an idea of the size of the data set being examined *[5]*.
 
